@@ -9,8 +9,8 @@ My personal Gunbot settings, I will keep it up-to-date with one that I am using
 
 ### Supported versions
 
-- 3.3.2
-- 4.0.5
+- 3.3.x
+- 4.0.x
 
 ### Cautions ⚠︎
 1. Remember to backup your settings!
